@@ -12,7 +12,7 @@ sns.set_theme(style="whitegrid")
 print("=== INICIANDO PROYECTO DE CIENCIA DE DATOS ===")
 
 # ==========================================
-# ETAPA 1: Fundamentos y Preparación de Datos
+# ETAPA 1: Fundamentos y Preparación de Datos.
 # ==========================================
 print("\n--- ETAPA 1: CREACIÓN Y LIMPIEZA DE DATOS ---")
 

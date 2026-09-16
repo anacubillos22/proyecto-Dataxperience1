@@ -34,4 +34,4 @@ Repositorio oficial para el proyecto final del curso de Ciencia de Datos, donde 
 * **Aplicación Profesional:** Demostración de cómo estas herramientas analíticas permiten la toma de decisiones basada en datos dentro de entornos técnicos y profesionales.
 
 ---
-*Autor: Desarrollado como parte del portafolio profesional en Ingeniería de Sistemas.*
+*Autor: Ana Cubillos Desarrollado como parte del portafolio profesional en Ingeniería de Sistemas.*
